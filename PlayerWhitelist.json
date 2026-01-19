@@ -1,1 +1,101 @@
-
+{
+	"WhitelistedUsers": [
+		{
+			"userid": 8826227005,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "aero",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 2880269678,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Jake",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 794513814,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Yin",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 3467006867,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Yin",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 9417696026,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Yin",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 8396015196,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Yin",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 9743889635,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Yang",
+					"color": [255, 255, 255]
+				}
+			]
+		},
+		{
+			"userid": 2028717962,
+			"attackable": false,
+			"level": 900,
+			"tags": [
+				{
+					"text": "Zayro",
+					"color": [255, 255, 255]
+				}
+			]
+		}
+	],
+	"BlacklistedUsers": {
+		"111111111": "ur banned from using ts"
+	},
+	"Announcement": {
+		"text": "",
+		"expiretime": 0,
+		"targets": "all"
+	},
+	"KillVape": false
+}
